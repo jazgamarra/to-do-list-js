@@ -1,4 +1,4 @@
-# to-do-list-js
+# TO DO LIST 
 
 ## Technologies. 
 - HTML
